@@ -10,9 +10,6 @@ try {
   process.exit(1);
 }
 
-// ==================================================
-// FUNCTIONS
-// ==================================================
 
 function getAverageGrade(student) {
   if (!student || !Array.isArray(student.grades) || student.grades.length === 0) return 0;
@@ -95,9 +92,6 @@ function divider(title) {
   console.log("=".repeat(50));
 }
 
-// ==================================================
-// MAIN
-// ==================================================
 function main() {
   divider("📊 STUDENT RECORDS REPORT — 15 STUDENTS");
 
