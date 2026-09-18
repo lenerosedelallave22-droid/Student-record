@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Aaron James Pascual", "year": 2, "course": "BSIT", "grades": [85, 88, 90, 87], "enrolled": true },
+  { "id": 2, "name": "Bianca Rose Mercado", "year": 3, "course": "BEED", "grades": [79, 83, 81, 85], "enrolled": true },
+  { "id": 3, "name": "Clara Isabel Santos", "year": 1, "course": "BSIS", "grades": [92, 94, 91, 93], "enrolled": true },
+  { "id": 4, "name": "Derek Paolo Reyes", "year": 4, "course": "BSIT", "grades": [88, 92, 85, 90], "enrolled": true },
+  { "id": 5, "name": "Elena Grace Bautista", "year": 2, "course": "BEED", "grades": [91, 88, 89, 93], "enrolled": true },
+  { "id": 6, "name": "Felix Martin Dizon", "year": 3, "course": "BSIS", "grades": [70, 75, 72, 68], "enrolled": false },
+  { "id": 7, "name": "Beatrice Ann Lim", "year": 3, "course": "BEED", "grades": [96, 94, 97, 95], "enrolled": true },
+  { "id": 8, "name": "Gina Marie Villanueva", "year": 4, "course": "BSIT", "grades": [86, 88, 90, 87], "enrolled": true },
+  { "id": 9, "name": "Hector Ramos Jr.", "year": 1, "course": "BSIS", "grades": [82, 78, 80, 75], "enrolled": true },
+  { "id": 10, "name": "Ivy Lynn Castillo", "year": 2, "course": "BEED", "grades": [73, 76, 71, 74], "enrolled": true },
+  { "id": 11, "name": "Jasper Neil Aquino", "year": 3, "course": "BSIT", "grades": [89, 91, 88, 90], "enrolled": true },
+  { "id": 12, "name": "Zara Marie Noble", "year": 4, "course": "BSIT", "grades": [94, 93, 95, 93], "enrolled": true },
+  { "id": 13, "name": "Kara Joy Mendoza", "year": 1, "course": "BSIS", "grades": [77, 74, 79, 76], "enrolled": true },
+  { "id": 14, "name": "Lance Patrick Garcia", "year": 2, "course": "BEED", "grades": [68, 72, 70, 65], "enrolled": false },
+  { "id": 15, "name": "Maya Flor Torres", "year": 3, "course": "BSIS", "grades": [87, 89, 86, 88], "enrolled": true }
+]
