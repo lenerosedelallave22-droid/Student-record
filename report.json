@@ -5,7 +5,7 @@
     "id": 7,
     "name": "Beatrice Ann Lim",
     "year": 3,
-    "course": "Beed",
+    "course": "BEED",
     "grades": [96, 94, 97, 95],
     "enrolled": true
   },
@@ -13,7 +13,7 @@
     {
       "id": 7,
       "name": "Beatrice Ann Lim",
-      "course": "Beed",
+      "course": "BEED",
       "average": 95.50
     },
     {
@@ -31,7 +31,7 @@
   ],
   "courseBreakdown": [
     {
-      "course": "Beed",
+      "course": "BEED",
       "average": 87.92
     },
     {
