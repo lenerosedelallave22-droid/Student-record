@@ -1,0 +1,50 @@
+{
+  "totalStudents": 15,
+  "overallAverage": 84.62,
+  "topStudent": {
+    "id": 7,
+    "name": "Beatrice Ann Lim",
+    "year": 3,
+    "course": "Beed",
+    "grades": [96, 94, 97, 95],
+    "enrolled": true
+  },
+  "top3Students": [
+    {
+      "id": 7,
+      "name": "Beatrice Ann Lim",
+      "course": "Beed",
+      "average": 95.50
+    },
+    {
+      "id": 12,
+      "name": "Zara Marie Noble",
+      "course": "BSIT",
+      "average": 93.75
+    },
+    {
+      "id": 3,
+      "name": "Clara Isabel Santos",
+      "course": "BSIS",
+      "average": 92.50
+    }
+  ],
+  "courseBreakdown": [
+    {
+      "course": "Beed",
+      "average": 87.92
+    },
+    {
+      "course": "BSIT",
+      "average": 84.35
+    },
+    {
+      "course": "BSIS",
+      "average": 81.50
+    }
+  ],
+  "enrollmentStatus": {
+    "enrolled": 13,
+    "notEnrolled": 2
+  }
+}
